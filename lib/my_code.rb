@@ -1,4 +1,5 @@
-# My Code here....
+# I accidentally did this lab with enumerables, I commented out the way I did it at first and went back and fixed it.
+
 # def map_to_negativize(source_array)
 #   source_array.map { |num| num * -1 }
 # end
