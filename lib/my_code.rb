@@ -64,6 +64,7 @@
     new = starting_point
     while i < source_array.length
       new += source_array[i]
+      i += 1
     end
     return new
   end
