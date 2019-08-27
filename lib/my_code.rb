@@ -51,7 +51,7 @@
       new << source_array[i] * source_array[i]
       i += 1
     end
-
+    return new
   end
 #-----------------------------------------------
 #
